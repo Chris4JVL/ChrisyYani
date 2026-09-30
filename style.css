@@ -17,7 +17,7 @@ h1{
  color: red; /*color de las letras*/
  font-size: 4rem; /*Tamaño de las letras*/
  text-align: center;
-    margin: 10px 0;
+   margin: 10px 0;
  -webkit-text-stroke-width: 2px; /*Grosor del borde de las letras*/
  -webkit-text-stroke-color: black; /*Color del borde de las letras*/
  
@@ -59,6 +59,7 @@ button:active {
 /* Estilos para la imagen cuando aparezca */
 #contenedorImagen img {
    display: block;
+    align-items: center;
     width: 90%; 
     max-width: 350px; 
     height: auto; 
