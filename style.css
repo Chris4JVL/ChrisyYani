@@ -63,8 +63,7 @@ button:active {
 
 /* Estilos para la imagen cuando aparezca */
 #contenedorImagen img {
-   display: block;
-    align-items: center;
+    display: block;
     width: 90%; 
     max-width: 350px; 
     height: auto; 
