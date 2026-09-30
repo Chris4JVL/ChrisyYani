@@ -15,7 +15,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh; 
-    box-sizing: border-box;;
+    box-sizing: border-box;
+    text-align: center;
 }
 
 h1{
