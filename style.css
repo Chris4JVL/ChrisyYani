@@ -61,6 +61,15 @@ button:active {
     transform: scale(0.98); 
 }
 
+#contenedorImagen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra verticalmente dentro de sí mismo */
+    align-items: center;     /* Centra horizontalmente en PC */
+    width: 100%;
+    max-width: 100%;         /* Evita desbordamientos en monitores de escritorio */
+}
+
 /* Estilos para la imagen cuando aparezca */
 #contenedorImagen img {
     display: block;
